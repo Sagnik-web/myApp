@@ -1,4 +1,14 @@
 // clone command
 git clone https://github.com/Sagnik-web/myApp.git
 
+cd DIR NAME
+
+// To Know Status
+git status
+
+// To add all file git localy
+git add .
+
+// commit message
+git commit -m "message"
 
